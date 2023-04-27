@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Food App</string>
+    <string name="food_water"><![CDATA[Food & Water]]></string>
+    <string name="cook_now">Cook now</string>
+    <string name="show_all">Show all</string>
+    <string name="desc_food_1">Sandwich with Hummus and \nZucchini</string>
+    <string name="desc_food_2">Oatmeal with Raspberries and \nStrawberries</string>
+    <string name="recent_activities">Recent activities</string>
+    <string name="tv_today">Today</string>
 </resources>
